@@ -4,4 +4,4 @@
 | Programa em execução |
 |:---:|
 ![spammer](https://github.com/vyniexec/spammer/blob/main/spammer.png)
-| Fonte: vyniexec |
+|[BY: vyniexec](https://github.com/vyniexec/)|
